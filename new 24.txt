@@ -1,0 +1,33 @@
+1) есть сеть компании 1, в ней небольшое подмножество хостов HostSet
+2) есть сеть компании 2 с хостом BB
+как можно связать сети между собой для решения одной единственной задачи:
+каждому из хостов HostSet нужен доступ по ssh & http к хосту BB
+
+я себе это представляю так:
+компании договариваются об 
+
+В связи с тем, что 
+1) в ближайшее время мы приступаем к реализации большого проекта с клиентом львов-холод, 
+2) мы собираемся полноценно использовать http://srv-bitbucket.u-sluno.cz/ в качестве единственного источника кода при работе на хостах клиента львов-холода
+Следующая идея выглядит логичной:
+установить между сетями Sluno и Lviv-Cold такие же отношения/связи, как это уже сделано между сетями Sluno и Fozzy.
+
+Не могли бы вы написать очень кратко как реализована связь сетей Sluno и Fozzy? 
+Имея это описание мы бы могли начать обсуждение этого вопроса с Lviv-Cold.
+
+
+
+Мы бы хотели предложить применить существующее решение для связи сетей Sluno и Fozzy клиенту Lviv-Cold, для чего нам очень бы пригодилось самое краткое описание того, как реализована связь сетей Sluno и Fozzy.
+
+Given the following two reasons:
+
+1) since January 1 we began to implement a large project with a Lviv-Cold client ,
+2) we are going to make http://srv-bitbucket.u-sluno.cz/ as the only source of code when working on Lviv-Cold client hosts,
+
+The following idea seems natural and logical:
+
+Establish the same relationship between Sluno and Lviv-Cold networks as has already been done between Sluno and Fozzy networks.
+
+Could you write very briefly how the communication of the Sluno and Fozzy networks is implemented?
+
+Having this description, we could start a discussion of this issue with Lviv-Cold.

@@ -1,0 +1,4 @@
+CIRComCFArticlesPanel.java different loc size= 333741 rem size= 333741 loctime= 20191218 113214 remtime= 20200129 154328
+CIRCltPanelContacts.java different loc size= 20849 rem size= 20849 loctime= 20191228 091314 remtime= 20200129 154403
+CIRFouPanelContacts.java different loc size= 21918 rem size= 21918 loctime= 20191225 230249 remtime= 20200129 154404
+USCIRComService.java different loc size= 84345 rem size= 84345 loctime= 20191224 123311 remtime= 20200129 154427
