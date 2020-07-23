@@ -31,3 +31,5 @@ Establish the same relationship between Sluno and Lviv-Cold networks as has alre
 Could you write very briefly how the communication of the Sluno and Fozzy networks is implemented?
 
 Having this description, we could start a discussion of this issue with Lviv-Cold.
+
+Некоторые дополнения

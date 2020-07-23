@@ -1,2 +1,5 @@
 git clone http://viermolenko@srv-bitbucket.u-sluno.cz/scm/lvivcold/goldcentral.git
 Initialized empty Git repository in No protocol specifie
+
+--------------------------------------------------------
+new updates from 20200723
