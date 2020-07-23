@@ -4,6 +4,18 @@ file 3 row 2
 file 3 row 3
 file 3 row 4
 file 3 row 5
-
+<<<<<<< HEAD
+Всем привет! ТАА
+Viktor one more insert
+=======
+He Andrey
+AHOY
+>>>>>>> 2840aeb470bd35bc96718d925f3828badfe7b1e5
 ------------
 new modifications 20200724---
+<<<<<<< HEAD
+Героям слава!!)
+=======
+>>>>>>> 85f71354815149cb20ac8c4e016917fd1f16634a
+Изменения ТАА
+Изменения IEV
