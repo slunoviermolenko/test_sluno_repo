@@ -2,10 +2,19 @@
 file 2 row 1
 file 2 row 2
 file 2 row 3
-file 2 row 4
+file 2 row РўРЈС‚ Р±С‹Р»Рѕ 4
 file 2 row 5
 Test-TAA 02
 Test -TAA BRD 00032
+<<<<<<< HEAD
 ------------
 new modifications 20200724
 Hello Viktor...
+=======
+Что то ;)
+Что то еще :)))
+------------
+new modifications 20200724
+Hello Viktor
+HI Alona
+>>>>>>> 8ea8dd02da8923d0d7222015719186f74d7d9e7d
