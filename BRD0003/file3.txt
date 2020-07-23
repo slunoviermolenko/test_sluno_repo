@@ -6,7 +6,7 @@ file 3 row 4
 file 3 row 5
 <<<<<<< HEAD
 Всем привет! ТАА
-
+Viktor one more insert
 =======
 He Andrey
 AHOY
