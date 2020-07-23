@@ -4,7 +4,12 @@ file 3 row 2
 file 3 row 3
 file 3 row 4
 file 3 row 5
+<<<<<<< HEAD
 Всем привет! ТАА
 
+=======
+He Andrey
+AHOY
+>>>>>>> 2840aeb470bd35bc96718d925f3828badfe7b1e5
 ------------
 new modifications 20200724---
